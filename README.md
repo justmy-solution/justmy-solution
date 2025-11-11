@@ -127,11 +127,6 @@ I specialize in integrating **AI technologies (OpenAI, LangChain, RAG)** and **D
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=justmy-solution&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 🌐 Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/josiahrogers-ai)  
 🌍 [Portfolio](https://josiah-portfolio-nine.vercel.app)  
