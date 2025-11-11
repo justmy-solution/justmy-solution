@@ -127,7 +127,7 @@ I specialize in integrating **AI technologies (OpenAI, LangChain, RAG)** and **D
 ---
 
 ## 🌐 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/josiahrogers-solutions)
+💼 [LinkedIn](https://www.linkedin.com/in/josiahrogers-solutions)  
 🌍 [Portfolio](https://josiah-portfolio-nine.vercel.app)  
 📧 **rogersjosiah118@gmail.com**
 
