@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-I’m **Josiah Rogers**, a results-driven **Full Stack Developer** with 8+ years of experience building scalable web, AI, and blockchain solutions.  
+I am a **Full Stack Developer** with 8+ years of experience building scalable web, AI, and blockchain solutions.  
 My mission is to create **high-performance, data-driven, and intelligent applications** that enhance business operations and user experience.
 
 With expertise in **React, Vue, Laravel, Node.js, and FastAPI**, I’ve delivered over **30 international projects**—including AI chatbots, analytics dashboards, and enterprise SaaS platforms.  
